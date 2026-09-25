@@ -1,0 +1,21 @@
+# Core data analysis
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Excel / spreadsheet support
+openpyxl
+
+# Database utilities used by the notebook
+SQLAlchemy
+
+# Notebook environment
+jupyter
+notebook
