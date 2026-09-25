@@ -203,11 +203,3 @@ Model training uses fixed random seeds where applicable, including `random_state
 The analysis highlights that agricultural productivity is influenced by multiple dimensions rather than cultivated area alone. The project examines crop and seasonal differences alongside irrigation infrastructure, rainfall/precipitation variability, and fertilizer usage.
 
 The clustering analysis additionally shows that crop-season combinations can exhibit distinct production patterns, meaning the same crop can fall into different production groups depending on its agricultural season.
-
-## Author
-
-**Kiran Kumar**
-
-GitHub: `<your-github-profile-url>`
-
-LinkedIn: `<your-linkedin-profile-url>`
